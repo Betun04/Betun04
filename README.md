@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Betun</h1>
 <h3 align="center">A passionate Minecraft Plugin Developer from Uruguay</h3>
 
-- 🔭 I’m currently working on [Staff manager](https://www.spigotmc.org/resources/staffmanager.121580/) and [RP-Wizard](https://github.com/Betun04/RP-Wizard)
+- 🔭 I’m currently working on [Staff manager](https://www.spigotmc.org/resources/staffmanager.121580/)
 
 - 📫 How to reach me **mathi04101@gmail.com**
 
