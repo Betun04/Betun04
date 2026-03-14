@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Betun</h1>
-<h3 align="center">A passionate Minecraft Plugin Developer from Uruguay</h3>
+<h3 align="center">Minecraft Plugin Developer from Uruguay</h3>
 
 - 🔭 I’m currently working on [Staff manager](https://www.spigotmc.org/resources/staffmanager.121580/)
 
