@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Staff manager](https://www.spigotmc.org/resources/staffmanager.121580/)
 
-- 📫 How to reach me **mathi04101@gmail.com**
+- 📫 How to reach me **betu04101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
